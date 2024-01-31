@@ -8,13 +8,13 @@ function App() {
 
   return (
     <>
-     <BrowserRouter>
-    <Navbar/>
-    <div className="min-h-[80vh]">
-      <Home />
-    </div>
-    <Footer />
-    </BrowserRouter>
+      <BrowserRouter>
+        <Navbar />
+        <div className="min-h-[80vh]">
+          <Home />
+        </div>
+        <Footer />
+      </BrowserRouter>
     </>
   )
 }
