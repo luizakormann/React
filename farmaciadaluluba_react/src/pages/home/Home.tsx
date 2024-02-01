@@ -27,12 +27,12 @@ function Home() {
                         </p>
                         <div
                             id="containterButton"
-                            className="flex justify-around gap-4 w-1/2 text-center font-semibold py-4">
-                            <div className="rounded border-sky-950 bg-amber-100 border-solid border-2 px-4 py-2 flex-1">
-                                Criar Produtos
+                            className="flex justify-around gap-4 w-1/2 text-center font-semibold py-4 ">
+                            <div className="rounded border-sky-950 bg-amber-100 border-solid border-2 px-4 py-2 flex-1 hover:bg-amber-300 hover:underline">
+                                Espaço revendedor
                             </div>
-                            <div className="rounded border-sky-950 bg-amber-100 border-solid border-2 px-4 py-2 flex-1">
-                                Ver Produtos
+                            <div className="rounded border-sky-950 bg-amber-100 border-solid border-2 px-4 py-2 flex-1 hover:bg-amber-300 hover:underline">
+                                Espaço cliente
                             </div>
                         </div>
                     </div>
