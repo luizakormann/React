@@ -15,8 +15,8 @@ function Home() {
                         flexDirection: "column",
                         alignItems: "center",
                     }}>
-                        <h2>Boas vindas!</h2>
-                        <p>Conte aqui sua experiência:</p>
+                        <h2>Passeios gratuitos em Essepê</h2>
+                        <p>Turiste a selva de pedra, mesmo se estiver sem grana ☺ Se liga nas dicas - e compartilha as suas com nóis</p>
                     </div>
                     <div style={{
                         width: "80vw",
@@ -25,9 +25,9 @@ function Home() {
                         alignItems: "center",
                     }}>
                         <img
-                            src="https://i.imgur.com/VpwApCU.png"
+                            src="https://imgur.com/k1jbDV0.png"
                             alt="Imagem da Página Home"
-                            width="400px"></img>
+                            className="w-2/3"></img>
 
                     </div>
                 </div>
